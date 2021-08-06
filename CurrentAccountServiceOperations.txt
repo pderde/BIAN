@@ -1,7 +1,6 @@
 Service Operations for: 	Current Account
 
 InCR Initiate A new Current Account
-	1	inout	Current Account Fulfillment Arrangement Instance Record
 	2	out	Product Instance Reference
 	3	out	Current Account Number
 	4	in	Customer Reference

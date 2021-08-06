@@ -26,7 +26,6 @@ InCR Initiate A new Current Account
 	24	inout	Date Type
 
 UpCR Update properties of an active current account
-	1	inout	Current Account Fulfillment Arrangement Instance Record
 	2	inout	Product Instance Reference
 	3	inout	Current Account Number
 	4	inout	Customer Reference
